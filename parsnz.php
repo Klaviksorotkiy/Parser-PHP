@@ -16,7 +16,7 @@ echo "<input type=submit name=\"gobutton\" value=\"   Отпарсить   \" on
 ?>
 <p id="p1"></p>
 </form>
-<br><br>
+<br> 
 
 <?
 // если нажали кнопошку
